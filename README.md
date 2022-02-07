@@ -6,8 +6,8 @@
 ## About me
 ```js
   const Andrew = {
-    code: [Javascript, Typescript, MongoDB, HTML, CSS],
-    tools: [React, Node, Styled-Component, Jest],
+    code: [Javascript, Typescript, MongoDB, Postgresql, HTML, CSS],
+    tools: [React, Redux, Next, Node, Styled-Component, Jest],
     age: 21,
     nacionality: Venezuelan,
   }
