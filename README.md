@@ -8,7 +8,7 @@
   const Andrew = {
     code: [Javascript, Typescript, Python, MongoDB, Postgresql, Docker, Odoo, HTML, CSS],
     tools: [React, Redux, Next, Node, Styled-Component, Jest, Vitest],
-    age: 22,
+    age: 23,
     nacionality: Venezuelan,
   }
   ```
