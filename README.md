@@ -6,9 +6,10 @@
 ## About me
 ```js
   const Andrew = {
-    code: [Javascript, Typescript, Python, MongoDB, Postgresql, Docker, Odoo, HTML, CSS],
-    tools: [React, Redux, Next, Node, Styled-Component, Jest, Vitest],
-    age: 23,
+    code: [Javascript, Typescript, Python, HTML, CSS],
+    tools: [React, Next, Node, NestJs, Odoo, Styled-Component, Jest, Vitest, Docker],
+    databases: [Mongodb, Postgresql, MySql],
+    age: 24,
     nacionality: Venezuelan,
   }
   ```
